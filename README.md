@@ -40,10 +40,6 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
  ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-  ![Snake animation](https://github.com/elderon89/elderon89/blob/output/github-contribution-grid-snake.svg)
-  
-
-
 
 
 
