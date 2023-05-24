@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hey everyone, I'm Paula Pareja Ramírez 👋</h1>
 
-<div align="center">
-  <img src="https://github.com/PaulaPRamirez/Bio/assets/134306954/fdb4e850-644f-4205-841e-33a116e7553a" alt="getimg_ai_img-VeG6AwxpzL9AafTPYO4Rk" width="700">
-</div>
-
-
 
 ### Data Analyst 📊 | Business Intelligence 👩‍💻
 </p>
