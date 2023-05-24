@@ -15,10 +15,10 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
   </a>
 </p>
 
-<h3 align="center">My email is paulaparejaramirez14@gmail.com:</h3>
+<h3 align="center">My email is paulaparejaramirez14@gmail.com:</h5>
 
 
- # - Hard Skills:
+ ### - Hard Skills:
  
  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -40,6 +40,8 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
  ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+  ![Snake animation](https://github.com/elderon89/elderon89/blob/output/github-contribution-grid-snake.svg)
+  
 
 
 
