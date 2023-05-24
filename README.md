@@ -57,11 +57,9 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 
 ### - Other Skills:
 
-#### Languages
-- Spanish 🇪🇸
-- English 🇺🇸
-- French 🇫🇷
-- Arabic 🇦🇪
+- I am fluent in Spanish, English and French. I have a basic level of Arabic. 
+- I work as a deal closer and account manager for a Digital Marketing Company. 
+
 
 
 
