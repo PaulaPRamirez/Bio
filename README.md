@@ -5,6 +5,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/paulaparejaram%C3%ADrez/" target="blank"><img align="center" src="https://github.com/PaulaPRamirez/Bio/blob/46abd9c0e5bb919e13b90b2fa885767e5708b0ac/Logo_LinkedIn.png" alt="PaulaPRamírez" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/paulaparejaram%C3%ADrez/" onclick="window.open(this.href, '_blank'); return false;">
+    <img align="center" src="https://github.com/PaulaPRamirez/Bio/blob/46abd9c0e5bb919e13b90b2fa885767e5708b0ac/Logo_LinkedIn.png" alt="PaulaPRamírez" height="50" width="50" />
+  </a>
 </p>
+
 
