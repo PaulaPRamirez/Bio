@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey everyone, I'm Paula Pareja Ramírez 👋</h1>
 
-
 <div align="center">
   <img src="https://github.com/PaulaPRamirez/Bio/assets/134306954/fdb4e850-644f-4205-841e-33a116e7553a" alt="getimg_ai_img-VeG6AwxpzL9AafTPYO4Rk" width="700">
 </div>
@@ -11,7 +10,7 @@
 </p>
 Welcome to my GitHub profile! 
 </p>
-I am a data analyst at Universidad Comillas, specializing in uncovering captivating stories hidden within data. With a curious, active, and open mind, I have a passion for exploring and discovering patterns and trends that may otherwise go unnoticed. Through my analytical skills, I bring a unique perspective to interpreting data, allowing me to provide valuable insights. Join me on this exciting journey as I delve into the world of data and create new projects!
+I am a data analyst at Universidad Comillas, specializing in uncovering captivating stories hidden within data. With a curious, active, and open mind, I have a passion for exploring and discovering patterns and trends that may otherwise go unnoticed. Join me on this exciting journey as I delve into the world of data and create new projects!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,11 +21,11 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 
 <h5 align="center">Or email me at paulaparejaramirez14@gmail.com 📫</h5>
 
+<br>
 
 ### - Hard Skills:
-
 <div>
-  <img align="right" src="https://github.com/PaulaPRamirez/Bio/assets/134306954/01c382e5-20b0-49f1-bae7-8f8d904d54e9" alt="2001 i039 031_branding_isometric_concept_icons-06" width="300" height="300">
+  <img align="right" src="https://github.com/PaulaPRamirez/Bio/assets/134306954/01c382e5-20b0-49f1-bae7-8f8d904d54e9" alt="2001 i039 031_branding_isometric_concept_icons-06" width="300" height="300"><br>
   
   <div>
     <p>
@@ -55,26 +54,35 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 <br><br>
 
 
-### - Other Skills:
+### - Other things about me:<br>
 
-- I am fluent in Spanish, English and French. I have a basic level of Arabic. 
-- I work as a deal closer and account manager for a Digital Marketing Company. 
+- 🗺️ I am passionate for languages. I am fluent in Spanish, English and French, and I have a basic level of Arabic.
+
+- 🤝🏼 I work as a deal closer and account manager for a Digital Marketing Company in Madrid.
+
+- 🎬 I'm a movie geek, I devour all the movies.
+
+- 🥊 In my free time I love to play sports. I practice Muay Thai.
+
+- 🙋🏻‍♀️ Open for discussion on: Anything about tech and finance. 
 
 
 
 
+<br>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="My github stats" height="150"/></p>
 
+<p align="center">
+<img align="left" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="kate028"/> </p>
 
-<br><br><br>
-
+<p align="center">
+<img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
-</p>
-<p align="left">
-<img align="left" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
-</p>
 
 
+<br>
 
 
 
