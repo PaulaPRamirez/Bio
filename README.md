@@ -21,22 +21,17 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 
 <h5 align="center">Or email me at paulaparejaramirez14@gmail.com 📫</h5>
 
-<br>
 
+
+<div>  
+  <img align="right" src="https://github.com/PaulaPRamirez/Bio/assets/134306954/8610d853-e6de-4e43-ae71-e1a7aed871ae" alt="2001 i039 031_branding_isometric_concept_icons-06" width="250" height="250">
+  
 ### - Hard Skills:
-<div>
-  <img align="right" src="https://github.com/PaulaPRamirez/Bio/assets/134306954/01c382e5-20b0-49f1-bae7-8f8d904d54e9" alt="2001 i039 031_branding_isometric_concept_icons-06" width="300" height="300"><br>
   
   <div>
     <p>
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Jupyter">
-      <img src="https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" alt="Numpy">
-      <img src="https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas">
-      <img src="https://camo.githubusercontent.com/60b341aec860c05e0322d6bc031082729044102fb633ae271d0b734d1338d9f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532333336373041302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b" alt="MatplotLib">
-      <img src="https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-      <img src="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465" alt="Plotly">
       <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=dark" alt="SQL">
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
       <img src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL">
@@ -57,25 +52,21 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 ### - Other things about me:<br>
 
 - 🗺️ I am passionate for languages. I am fluent in Spanish, English and French, and I have a basic level of Arabic.
-
 - 🤝🏼 I work as a deal closer and account manager for a Digital Marketing Company in Madrid.
-
 - 🎬 I'm a movie geek, I devour all the movies.
-
 - 🥊 In my free time I love to play sports. I practice Muay Thai.
-
 - 🙋🏻‍♀️ Open for discussion on: Anything about tech and finance. 
 
 
 
 
-<br>
+<br><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="My github stats" height="150"/></p>
 
 <p align="center">
-<img align="left" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="kate028"/> </p>
+<img align="left" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="PaulaPRamirez"/> </p>
 
 <p align="center">
 <img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
