@@ -58,8 +58,6 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 - 🙋🏻‍♀️ Open for discussion on: Anything about tech and finance. 
 
 
-
-
 <br><br>
 
 <p align="center">
@@ -72,8 +70,17 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 <img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
 
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
 
-<br>
 
 
+Here you can see a snake eating my Github contribution 😉
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/PaulaPRamirez/PaulaPRamirez/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
