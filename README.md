@@ -61,19 +61,19 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="My github stats" height="150"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="My github stats" height="148"/></p>
 
 <p align="center">
-<img align="left" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="PaulaPRamirez"/> </p>
+<img align="left" height="148"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="PaulaPRamirez"/> </p>
 
 <p align="center">
-<img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
+<img align="right" height= "148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
 
 <br/><br/><br/>
 <br/><br/><br/>
 <br/><br/><br/>
-
+<br/><br/><br/>
 
 
 Here you can see a snake eating my Github contribution 😉
