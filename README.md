@@ -22,6 +22,7 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
 
 <h5 align="center">Or email me at paulaparejaramirez14@gmail.com 📫</h5>
 
+
 ### - Hard Skills:
 
 <div>
@@ -51,18 +52,28 @@ I am a data analyst at Universidad Comillas, specializing in uncovering captivat
   </div>
 </div>
 
+<br><br>
+
 
 ### - Other Skills:
 
+#### Languages
+- Spanish 🇪🇸
+- English 🇺🇸
+- French 🇫🇷
+- Arabic 🇦🇪
 
 
 
 
 
 
+<br><br><br>
 
-<p align="center">
-<img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
+</p>
+</p>
+<p align="left">
+<img align="left" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
 
 
