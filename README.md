@@ -5,7 +5,7 @@
 </p>
 Welcome to my GitHub profile! 
 </p>
-I am a data analyst at Universidad Comillas, specializing in uncovering captivating stories hidden within data. With a curious, active, and open mind, I have a passion for exploring and discovering patterns and trends that may otherwise go unnoticed. Join me on this exciting journey as I delve into the world of data and create new projects!
+I am a data analyst at Universidad Comillas, specializing in uncovering captivating stories hidden within data. Join me on this exciting journey as I delve into the world of data and create new projects!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
