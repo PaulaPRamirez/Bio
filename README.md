@@ -48,7 +48,7 @@ I am a data analyst passionate about uncovering captivating stories hidden withi
 - 🤝🏼 I work as a deal closer and account manager for a Digital Marketing Company in Madrid.
 - 🎬 I'm a movie geek, I devour all the movies.
 - 🥊 In my free time I love to play sports. I practice Muay Thai.
-- 🙋🏻‍♀️ Open for discussion on: Anything about tech and finance. 
+- 🙋🏻‍♀️ Open for discussion on: Anything about tech, finance and politics. 
 
 
 <br><br>
