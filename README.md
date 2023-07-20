@@ -71,11 +71,3 @@ I am a data analyst passionate about uncovering captivating stories hidden withi
 <br/><br/><br/>
 
 
-Here you can see a snake eating my Github contribution 😉
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/PaulaPRamirez/PaulaPRamirez/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
-
