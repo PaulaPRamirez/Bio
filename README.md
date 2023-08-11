@@ -61,6 +61,9 @@ I am a data analyst passionate about uncovering captivating stories hidden withi
   <img align="left" height="148"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="PaulaPRamirez"/>
 </p>
 
+<p align="center">
+  <img align="right" height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
+</p>
 
 
 <br/><br/><br/>
